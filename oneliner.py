@@ -1,5 +1,6 @@
 import json, io
 from random import randint
+import os
 
 def random_digits(oneliners_size):
     # Return a joke index between first and last joke in data
